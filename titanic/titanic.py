@@ -17,5 +17,5 @@ titanic_df = pd.read_csv("./input/train.csv")
 test_df    = pd.read_csv("./input/test.csv")
 
 # preview the data
-titanic_df.head()
+titanic_df
 
